@@ -1,5 +1,4 @@
 *.lck
-*kle*
 *backup*
 *cache
 gerber_to_order
@@ -9,4 +8,5 @@ plots
 *.log
 *.csv
 KiCAD/*/*.step
+KiCAD/**/kle*
 jlcpcb
