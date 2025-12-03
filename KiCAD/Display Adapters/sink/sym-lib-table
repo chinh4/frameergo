@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "20455-040E-76")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/SnapEDA/20455-040E-76/20455-040E-76.kicad_sym")(options "")(descr ""))
+  (lib (name "G46M2013201AWEU")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/SnapEDA/G46M2013201AWEU/G46M2013201AWEU.kicad_sym")(options "")(descr ""))
+  (lib (name "XT30PW_2_2_-M.G.B")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/SnapEDA/XT30PW_2_2_-M.G.B/XT30PW_2_2_-M.G.B.kicad_sym")(options "")(descr ""))
+)

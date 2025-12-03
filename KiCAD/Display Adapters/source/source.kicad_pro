@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.508,
-          "width": 1.508
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -51,13 +51,7 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -186,17 +180,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.1524,
-        0.254,
-        0.3175,
-        0.381,
-        0.508,
-        0.762,
-        1.016,
-        1.905
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -223,12 +207,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -472,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Display Adapters.kicad_pro",
+    "filename": "source.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -632,16 +611,8 @@
   },
   "sheets": [
     [
-      "d30881c9-2e5b-4846-8f12-42ee4af8a2cb",
+      "5be56021-95eb-47a7-9dd6-59c698e3844b",
       "Root"
-    ],
-    [
-      "f98ac80c-9b3a-462e-909c-9aa1db87b1f8",
-      "source"
-    ],
-    [
-      "fcc0638b-2731-4e5e-82a0-257b53736c6a",
-      "sink"
     ]
   ],
   "text_variables": {}

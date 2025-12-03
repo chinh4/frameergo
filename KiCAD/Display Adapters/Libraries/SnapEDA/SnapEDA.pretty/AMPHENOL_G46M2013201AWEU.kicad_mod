@@ -433,7 +433,7 @@
 		(uuid "71ab579c-8d95-4caf-a1bf-3ad137ed0d95")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Libraries/SnapEDA/G46M2013201AWEU/G46M2013201AWEU.step"
+	(model "${KIPRJMOD}/../Libraries/SnapEDA/G46M2013201AWEU/G46M2013201AWEU.step"
 		(offset
 			(xyz 0 0 0)
 		)
