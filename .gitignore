@@ -7,6 +7,5 @@ plots
 *datasheets
 *.log
 *.csv
-KiCAD/*/*.step
+KiCAD/* /*.step
 KiCAD/**/kle*
-jlcpcb
