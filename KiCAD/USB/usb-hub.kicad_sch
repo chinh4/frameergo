@@ -5962,7 +5962,7 @@
 				)
 			)
 		)
-		(property "Value" "33 pF"
+		(property "Value" "27 pF"
 			(at 81.2863 134.62 0)
 			(effects
 				(font
@@ -6030,7 +6030,7 @@
 				)
 			)
 		)
-		(property "Value" "33 pF"
+		(property "Value" "27 pF"
 			(at 104.394 134.62 0)
 			(effects
 				(font
