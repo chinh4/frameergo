@@ -248,7 +248,6 @@
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
-		(opacity 0.3000)
 		(offset
 			(xyz -4.75 -6.25 -10.25)
 		)
