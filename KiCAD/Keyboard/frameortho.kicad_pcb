@@ -412,7 +412,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5152d79f-1dd8-42b8-8cdf-021c04aec9d5")
+			(uuid "5f93c78f-cec2-4505-9825-3629592b058a")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -423,7 +423,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5152d79f-1dd8-42b8-8cdf-021c04aec9d5")
+			(uuid "39f39d4c-6d69-45a2-a99b-175439b2f53c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -434,7 +434,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5152d79f-1dd8-42b8-8cdf-021c04aec9d5")
+			(uuid "7dbecfe1-75e5-463a-bc43-47728869f970")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -695,7 +695,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "62e318e5-9d57-4a64-a256-ec45a0396918")
+			(uuid "66d3cb32-16e5-464c-ac5f-2029561cc0ff")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -706,7 +706,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "62e318e5-9d57-4a64-a256-ec45a0396918")
+			(uuid "85ba18be-d997-4562-98fe-2ca355c17878")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -717,7 +717,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "62e318e5-9d57-4a64-a256-ec45a0396918")
+			(uuid "d1007455-fb42-473b-a1d1-a50f996e8302")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -2643,7 +2643,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "093a3029-5578-480f-aa75-b02602ebcc19")
+			(uuid "c10d0cf7-f4e4-4e6c-9a62-b149a91f6b7e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -2654,7 +2654,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "093a3029-5578-480f-aa75-b02602ebcc19")
+			(uuid "799dc43c-dc88-4e79-8554-5b108c1eae93")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -2665,7 +2665,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "093a3029-5578-480f-aa75-b02602ebcc19")
+			(uuid "ac541d66-373f-49b8-9e6e-87db73ce6119")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -3031,7 +3031,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "16973a06-1380-491b-a9fc-faded735c1f0")
+			(uuid "c3909436-c80e-4259-baca-f4c0d155bfb4")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -3042,7 +3042,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "16973a06-1380-491b-a9fc-faded735c1f0")
+			(uuid "5b5a76c5-2336-44a3-a897-03fbd7b10184")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -3053,7 +3053,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "16973a06-1380-491b-a9fc-faded735c1f0")
+			(uuid "5a52f6c3-7e0d-4391-a37a-953d23ea9c78")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -3890,7 +3890,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ba887dd5-d3e7-4ed8-8f50-edb0d324e107")
+			(uuid "e1263a38-ba11-409e-9871-92248102f755")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -3901,7 +3901,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ba887dd5-d3e7-4ed8-8f50-edb0d324e107")
+			(uuid "e965d3cf-e2b2-42e0-a1c1-f203164b078d")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -3912,7 +3912,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ba887dd5-d3e7-4ed8-8f50-edb0d324e107")
+			(uuid "363ca3dd-d0c1-4e4b-8e62-9acf8800ca79")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -5337,7 +5337,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f94ffc5d-7e78-4f34-8224-2c47833767f9")
+			(uuid "80a11d64-5ddf-496e-b205-f94ae1dc253b")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -5348,7 +5348,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f94ffc5d-7e78-4f34-8224-2c47833767f9")
+			(uuid "0b60bcb2-ed74-4fe5-963b-a21ef517084d")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -5359,7 +5359,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f94ffc5d-7e78-4f34-8224-2c47833767f9")
+			(uuid "7af76940-ebc1-466e-ace1-f01332aa13d5")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -5486,7 +5486,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "97ca53a7-11f9-494d-ac88-4a7b90dbe0ae")
+			(uuid "c03dccfd-c068-4d17-8c7b-1519d3dab45f")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -5496,7 +5496,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "97ca53a7-11f9-494d-ac88-4a7b90dbe0ae")
+			(uuid "d50c435d-62b2-438b-9cf1-fcc24410cc9f")
 		)
 		(embedded_fonts no)
 	)
@@ -6742,7 +6742,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7ea137d9-b654-4d88-8464-040423fd54ea")
+			(uuid "db4c8a15-3484-4742-8856-7a65046ead0f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 347)
@@ -6753,7 +6753,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7ea137d9-b654-4d88-8464-040423fd54ea")
+			(uuid "c448be01-cd02-45ec-96f4-7ede943c702d")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 347)
@@ -6764,7 +6764,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7ea137d9-b654-4d88-8464-040423fd54ea")
+			(uuid "3fa5f4a0-0206-448e-8b4c-2879883fd65a")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -7129,7 +7129,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "286898ac-7004-4455-808c-5b54600a88ff")
+			(uuid "bee72c84-391f-44d9-aeef-a75167f70727")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -7140,7 +7140,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "286898ac-7004-4455-808c-5b54600a88ff")
+			(uuid "50e65123-1b25-41f3-9827-6859a98c5d8c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -7151,7 +7151,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "286898ac-7004-4455-808c-5b54600a88ff")
+			(uuid "d8bb5206-0c98-43fa-a9f6-87a0accce47b")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -7625,7 +7625,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aa5a7853-7fd1-4a02-b89b-c3e667fc6f43")
+			(uuid "0eba3fd2-f557-49e8-94a1-abca6f91a64e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -7636,7 +7636,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aa5a7853-7fd1-4a02-b89b-c3e667fc6f43")
+			(uuid "42c71a6e-d13a-4e36-8cf8-41f124ae6d15")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -7647,7 +7647,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aa5a7853-7fd1-4a02-b89b-c3e667fc6f43")
+			(uuid "2f57bc77-1cec-4eb8-86b7-110094f21d43")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -7774,7 +7774,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9d8892d2-246c-4c15-bc62-e5f5c5e45b9b")
+			(uuid "1ad6432c-8b60-4f0b-a96a-3f8fd996a80a")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -7784,7 +7784,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9d8892d2-246c-4c15-bc62-e5f5c5e45b9b")
+			(uuid "a261922b-312b-43fc-8219-a92183b4f69f")
 		)
 		(embedded_fonts no)
 	)
@@ -8353,7 +8353,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f010b020-1570-48bf-8bb9-1d7f3a28fcee")
+			(uuid "1c7a2eb4-809c-44ec-ab13-26aac8e41f69")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 28)
@@ -8364,7 +8364,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f010b020-1570-48bf-8bb9-1d7f3a28fcee")
+			(uuid "365ce76b-b50a-4988-9ce3-03e04bb5f408")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 28)
@@ -8375,7 +8375,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f010b020-1570-48bf-8bb9-1d7f3a28fcee")
+			(uuid "44f473fc-95c4-4334-9fd8-bbda88078798")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -10088,7 +10088,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9875d077-a061-4188-b4ec-a0c3fcd9e2c2")
+			(uuid "13709dc4-e0fd-4c2e-830f-fc04ffd60be3")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -10099,7 +10099,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9875d077-a061-4188-b4ec-a0c3fcd9e2c2")
+			(uuid "834eb7e2-da5b-4f98-898d-f3b5f0f3bacd")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -10110,7 +10110,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9875d077-a061-4188-b4ec-a0c3fcd9e2c2")
+			(uuid "dda36aae-beef-404b-8519-869eecd5b2e7")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -10476,7 +10476,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "164473a1-3a7a-4112-baa2-cb8ede04ce4b")
+			(uuid "e0b28dce-1491-4eb0-9137-4b8ad199dda7")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -10487,7 +10487,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "164473a1-3a7a-4112-baa2-cb8ede04ce4b")
+			(uuid "974c92cc-6088-493c-9c8b-f44e8e474a9e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -10498,7 +10498,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "164473a1-3a7a-4112-baa2-cb8ede04ce4b")
+			(uuid "c1b199ed-38e9-4870-b78f-6565d1993ecf")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -10759,7 +10759,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d518ef39-3b8b-4174-81f7-a9163e506685")
+			(uuid "e70daa52-6fc5-4327-83be-b1742c57eecd")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -10770,7 +10770,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d518ef39-3b8b-4174-81f7-a9163e506685")
+			(uuid "7a03ff24-88c4-45f9-a0dd-27431337de2c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -10781,7 +10781,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d518ef39-3b8b-4174-81f7-a9163e506685")
+			(uuid "04dd3e6a-d534-472f-ad64-eea01db199bb")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -11042,7 +11042,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "771ab7df-5b41-4e49-9a15-61919df2a545")
+			(uuid "682ea41e-d9da-4b3d-86f1-be88ea482df0")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 43)
@@ -11053,7 +11053,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "771ab7df-5b41-4e49-9a15-61919df2a545")
+			(uuid "de5502f4-ecf1-42de-8431-e9ec614b34f3")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 43)
@@ -11064,7 +11064,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "771ab7df-5b41-4e49-9a15-61919df2a545")
+			(uuid "bb5a0537-5a4e-4ed3-a03f-91307526aa02")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -11325,7 +11325,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00cdcb02-3361-4465-a1ef-b79ddaeab460")
+			(uuid "fccfbcf4-f5aa-4faf-a40f-955b070a9ba2")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -11336,7 +11336,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00cdcb02-3361-4465-a1ef-b79ddaeab460")
+			(uuid "68e43302-9d55-4878-8bb4-b318a16df7fb")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -11347,7 +11347,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00cdcb02-3361-4465-a1ef-b79ddaeab460")
+			(uuid "c4235183-1479-4e8b-8261-af56981f2238")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -12195,7 +12195,7 @@
 			(net 59 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "6ee4b2cd-a962-43c3-866b-13f3c56e2267")
+			(uuid "260bd790-c3b1-4499-8240-319a55f8e6bc")
 		)
 		(pad "2" smd rect
 			(at -3.15 1.9 180)
@@ -12213,7 +12213,7 @@
 			(net 57 "RUN")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "21265694-3631-4c7c-9205-ae90b3a05dc4")
+			(uuid "3bf2f9a8-fd45-4e76-bff2-53430bcea688")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.wrl"
@@ -12579,7 +12579,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7c88ae4a-caf4-47e3-8f20-ccc674cc628f")
+			(uuid "2008d25d-9b40-42cc-a01c-c0330a35dce3")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -12590,7 +12590,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7c88ae4a-caf4-47e3-8f20-ccc674cc628f")
+			(uuid "238072b5-4ef3-47e4-b3ec-d717619567dc")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -12601,7 +12601,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7c88ae4a-caf4-47e3-8f20-ccc674cc628f")
+			(uuid "f72e3263-ea5a-48b8-b5c6-084a591f0adc")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -12862,7 +12862,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4f7fec3e-51cf-4815-9f6f-86875ddb5989")
+			(uuid "0c2a9c5b-9bcc-43ae-81ad-1bbca6a2ebf1")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -12873,7 +12873,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4f7fec3e-51cf-4815-9f6f-86875ddb5989")
+			(uuid "0c68ee7c-c91d-4dc2-8f97-27e409f7c521")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -12884,7 +12884,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4f7fec3e-51cf-4815-9f6f-86875ddb5989")
+			(uuid "2dab7906-0d2f-490f-943d-412f1757b511")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -13374,7 +13374,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "637d41b6-cdac-4736-820c-ab39d04b40c7")
+			(uuid "71331105-f7b9-49e1-988b-4fb04b9981ec")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -13384,7 +13384,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "637d41b6-cdac-4736-820c-ab39d04b40c7")
+			(uuid "fbed34c2-769d-4f3c-b8fe-835de3e90b10")
 		)
 		(embedded_fonts no)
 	)
@@ -13500,7 +13500,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a5129cdd-8da4-46b8-a5f6-e07af1f9a3dc")
+			(uuid "2ea0268c-4fb7-4edf-a5fa-4102f1f23d81")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -13510,7 +13510,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a5129cdd-8da4-46b8-a5f6-e07af1f9a3dc")
+			(uuid "1f13c123-6f4c-4f39-be26-8104bee1dab1")
 		)
 		(embedded_fonts no)
 	)
@@ -13760,7 +13760,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df170cb0-766d-47d1-88a9-059786db51e9")
+			(uuid "f84d1719-9747-4b21-b896-cc45c04b6fc9")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -13771,7 +13771,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df170cb0-766d-47d1-88a9-059786db51e9")
+			(uuid "ca7620b4-2e5a-421a-9d55-54ab0fc35332")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -13782,7 +13782,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df170cb0-766d-47d1-88a9-059786db51e9")
+			(uuid "5c8b57b8-e3f7-4243-a8e0-2897e07188d6")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -13909,7 +13909,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "115a7920-fec7-4fbb-9029-314eaf30b65f")
+			(uuid "1fde0791-3485-48b5-b4ce-aab3b966f585")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -13919,7 +13919,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "115a7920-fec7-4fbb-9029-314eaf30b65f")
+			(uuid "b5cdeefb-9eda-4db9-be05-7edd62b9c41d")
 		)
 		(embedded_fonts no)
 	)
@@ -14532,7 +14532,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bc9fa849-72f1-4538-b4b0-90bf067d13be")
+			(uuid "7504bc13-6e57-4adc-b826-9f1fc549fa1f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -14543,7 +14543,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bc9fa849-72f1-4538-b4b0-90bf067d13be")
+			(uuid "4575535e-e20e-4e0b-a641-7d17bd562694")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -14554,7 +14554,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bc9fa849-72f1-4538-b4b0-90bf067d13be")
+			(uuid "5aa08d9e-e973-4cc2-a950-6b119a71e786")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -17859,7 +17859,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d2e20433-dbd3-4b4e-8c37-462fb2ae3a9d")
+			(uuid "6ecf676d-cd5a-4cee-b0d4-fa58b559699b")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 332)
@@ -17870,7 +17870,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d2e20433-dbd3-4b4e-8c37-462fb2ae3a9d")
+			(uuid "eb179009-13e8-45db-98ba-f6c0dd8c6004")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 332)
@@ -17881,7 +17881,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d2e20433-dbd3-4b4e-8c37-462fb2ae3a9d")
+			(uuid "2fddcc00-c84b-4299-88d5-993ed367ae4b")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -19416,7 +19416,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "171e7ceb-7471-435f-a286-a5156decc262")
+			(uuid "449adc0a-63ad-4c9e-afa0-e377c950ee51")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -19427,7 +19427,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "171e7ceb-7471-435f-a286-a5156decc262")
+			(uuid "d8033cac-bea4-4ac1-8b30-051c10107c8e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -19438,7 +19438,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "171e7ceb-7471-435f-a286-a5156decc262")
+			(uuid "89c44657-a219-4dac-812d-cd9b2485b81b")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -20230,7 +20230,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "797e9366-0c1d-4135-9bc9-76582824ae33")
+			(uuid "f15bc729-0528-4d15-bafd-2548b572cb85")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -20241,7 +20241,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "797e9366-0c1d-4135-9bc9-76582824ae33")
+			(uuid "a95343e2-684c-41c4-8d8a-0c6784849dd0")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -20252,7 +20252,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "797e9366-0c1d-4135-9bc9-76582824ae33")
+			(uuid "2f6dc386-0b24-4213-a22d-30716dbf7834")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -22851,7 +22851,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "bcf03292-851c-44ee-ac7e-f5139e05145f")
+			(uuid "f9855bae-55fa-4558-8daa-677aa2fd4cb6")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -22861,7 +22861,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "bcf03292-851c-44ee-ac7e-f5139e05145f")
+			(uuid "637b9c88-eff9-4c25-925a-41d8330257f1")
 		)
 		(embedded_fonts no)
 	)
@@ -23339,7 +23339,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "98c888b8-1920-4389-bbf0-60b6525bac40")
+			(uuid "b9b9c284-d5c1-4a8d-b29f-6282c4b0dc26")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -23349,7 +23349,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "98c888b8-1920-4389-bbf0-60b6525bac40")
+			(uuid "2e21a04a-e32d-456c-9cee-5ffa844c301e")
 		)
 		(embedded_fonts no)
 	)
@@ -23570,7 +23570,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a784591e-363b-48f7-aed9-a3e61c0a62e3")
+			(uuid "c2400246-dd25-4e23-9b51-bb9d1d177c2a")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -23580,7 +23580,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a784591e-363b-48f7-aed9-a3e61c0a62e3")
+			(uuid "415f6604-4817-4adf-a19f-402c48d264df")
 		)
 		(embedded_fonts no)
 	)
@@ -23830,7 +23830,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ef3c2b07-f37b-4645-9bc0-7d6ec5cd9f83")
+			(uuid "76a3b91a-40b6-48e7-8dab-bf4164ff9433")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -23841,7 +23841,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ef3c2b07-f37b-4645-9bc0-7d6ec5cd9f83")
+			(uuid "e4eae89a-eae8-4083-8c6f-8a06849b47b7")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -23852,7 +23852,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ef3c2b07-f37b-4645-9bc0-7d6ec5cd9f83")
+			(uuid "fe85daae-dc02-489c-9609-a6651e4de82f")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -24689,7 +24689,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "51f070a4-132f-4998-bfad-2c10d8a13841")
+			(uuid "d41dcf2d-14a4-4b37-942a-6efdbaccd14d")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -24700,7 +24700,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "51f070a4-132f-4998-bfad-2c10d8a13841")
+			(uuid "70ce17c9-88a6-4cc9-950f-7d3697ed3f21")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -24711,7 +24711,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "51f070a4-132f-4998-bfad-2c10d8a13841")
+			(uuid "5c2f193f-74bd-41ce-8d6c-214fd78ac9ce")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -24972,7 +24972,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "99c04154-4679-4447-bc60-96a53926afc8")
+			(uuid "fdf77010-9bd8-436a-a8bd-e7fd2143ec20")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -24983,7 +24983,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "99c04154-4679-4447-bc60-96a53926afc8")
+			(uuid "855c7a9c-8164-4b31-88c6-4535e7c12870")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -24994,7 +24994,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "99c04154-4679-4447-bc60-96a53926afc8")
+			(uuid "8f254c55-1e64-43e9-a136-e765e1d3c5cb")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -25723,7 +25723,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c450aea-3a54-42d2-b75c-b466bdd79117")
+			(uuid "64e0ebdd-5dc1-4942-b875-ce1f460a457a")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -25734,7 +25734,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c450aea-3a54-42d2-b75c-b466bdd79117")
+			(uuid "c143072a-2ae2-4439-9ec8-903116e6d755")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -25745,7 +25745,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c450aea-3a54-42d2-b75c-b466bdd79117")
+			(uuid "09a46d67-0e5c-4475-b8b5-2afac67014bd")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -26230,7 +26230,7 @@
 			(net 59 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cb82cb80-e86f-4d5d-addc-f5a5a9e193a8")
+			(uuid "eed67060-14db-4eb3-8637-a637d931fe17")
 		)
 		(pad "2" smd rect
 			(at -3.15 1.9 180)
@@ -26248,7 +26248,7 @@
 			(net 72 "Net-(R9-Pad1)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "92122428-df58-410e-9daa-2db684b129c7")
+			(uuid "b64771cc-9314-4607-8527-3700563e9a9c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.wrl"
@@ -26588,7 +26588,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8b3a323-a628-4d77-878f-41f5ba9ba12f")
+			(uuid "e77607c0-8df6-4e1c-b76e-f71b974815e4")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -26598,7 +26598,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8b3a323-a628-4d77-878f-41f5ba9ba12f")
+			(uuid "6dca2163-669c-4f83-b0df-e8b63f29c1e0")
 		)
 		(embedded_fonts no)
 	)
@@ -27211,7 +27211,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "061584d6-1d20-4e4c-9b6e-fd962b5cfca2")
+			(uuid "afe49cb0-b3cb-4801-a8ef-6ce1ecdfa375")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -27222,7 +27222,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "061584d6-1d20-4e4c-9b6e-fd962b5cfca2")
+			(uuid "2d0ca6c9-3dbf-4c75-ac7c-402016d6eaf3")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -27233,7 +27233,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "061584d6-1d20-4e4c-9b6e-fd962b5cfca2")
+			(uuid "38c1d9fb-2853-40ba-be74-78a147518501")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -27360,7 +27360,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "248a8fc5-e20b-4b6c-9b34-e2ccf2708894")
+			(uuid "d413fc1d-6c60-4b77-9cb1-2f7d5cccf70f")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -27370,7 +27370,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "248a8fc5-e20b-4b6c-9b34-e2ccf2708894")
+			(uuid "36aca371-de2f-4c73-9083-2d0a014e38d4")
 		)
 		(embedded_fonts no)
 	)
@@ -28017,7 +28017,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "94ddf4b8-ae52-4062-9761-f1ec978caff5")
+			(uuid "08daf46b-9c0f-4824-ba8c-3089314901c7")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -28027,7 +28027,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "94ddf4b8-ae52-4062-9761-f1ec978caff5")
+			(uuid "3ad78415-e631-4a53-aa1b-8a9ba5e4f178")
 		)
 		(embedded_fonts no)
 	)
@@ -28381,7 +28381,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f974f404-6fcb-427b-b34b-03ae9ae6444a")
+			(uuid "7f2989ca-3677-4632-b52c-3287433d5399")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -28392,7 +28392,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f974f404-6fcb-427b-b34b-03ae9ae6444a")
+			(uuid "517ea774-c145-43b5-b2c2-d81d9604f354")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -28403,7 +28403,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f974f404-6fcb-427b-b34b-03ae9ae6444a")
+			(uuid "b785d90a-72fb-46a0-a8a7-d1156a70d3db")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -28664,7 +28664,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f9395e-b815-478a-a7b8-c4deb9499dd4")
+			(uuid "a15eb687-ee39-4828-9286-9bd575a15558")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -28675,7 +28675,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f9395e-b815-478a-a7b8-c4deb9499dd4")
+			(uuid "aaf36f7a-7669-4fa7-b156-f977cd9ef23d")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -28686,7 +28686,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f9395e-b815-478a-a7b8-c4deb9499dd4")
+			(uuid "7a6371d2-99df-429d-a145-271a98bbfc02")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -28813,7 +28813,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "45b1909e-3d48-4865-a902-ec9b638acc25")
+			(uuid "8287d44a-cf83-42c8-ae41-3213e9858bb0")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -28823,7 +28823,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "45b1909e-3d48-4865-a902-ec9b638acc25")
+			(uuid "6dbf0cb6-0ef2-4a96-a488-221c50c4132c")
 		)
 		(embedded_fonts no)
 	)
@@ -29604,7 +29604,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f578ea2a-6ff1-433e-8581-6487bcdab360")
+			(uuid "eba235bd-8977-4e96-9409-aa2d6db5237f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -29615,7 +29615,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f578ea2a-6ff1-433e-8581-6487bcdab360")
+			(uuid "8b5f62e9-3b66-47dc-b3cb-9b091247935d")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -29626,7 +29626,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f578ea2a-6ff1-433e-8581-6487bcdab360")
+			(uuid "4efabf3d-3ca1-4536-b33c-b6c907acd640")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -30250,7 +30250,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "84406a33-2e7a-4036-9877-9899c014ec4b")
+			(uuid "0b4a86c3-f828-4747-a1b1-1219dce24b34")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 317)
@@ -30261,7 +30261,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "84406a33-2e7a-4036-9877-9899c014ec4b")
+			(uuid "7e87948d-46b8-4c0b-9cf7-21ef14acc337")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 317)
@@ -30272,7 +30272,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "84406a33-2e7a-4036-9877-9899c014ec4b")
+			(uuid "1a332487-d267-440b-bce2-525eb1eb0d93")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -31141,7 +31141,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "afa1e4a6-8378-42be-b191-3fffc932ea49")
+			(uuid "82ee8feb-8588-4956-b0f3-2bf9341559cd")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -31151,7 +31151,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "afa1e4a6-8378-42be-b191-3fffc932ea49")
+			(uuid "8c2c0505-0884-41a4-a599-578b4f92c3f1")
 		)
 		(embedded_fonts no)
 	)
@@ -31401,7 +31401,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c70cddf9-0503-47b1-a6c9-3646e78b112f")
+			(uuid "1b99d64d-cc26-4c64-af5d-25dab0999292")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -31412,7 +31412,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c70cddf9-0503-47b1-a6c9-3646e78b112f")
+			(uuid "8742a55d-66bb-420b-ab04-c76e70811eb0")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -31423,7 +31423,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c70cddf9-0503-47b1-a6c9-3646e78b112f")
+			(uuid "31584b77-f57f-4fcb-bd5c-2d9aec386d60")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -31684,7 +31684,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aee91319-c991-4983-8c30-61739c6e53d3")
+			(uuid "c19467a2-1082-485d-a6ec-8b696eac26ed")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -31695,7 +31695,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aee91319-c991-4983-8c30-61739c6e53d3")
+			(uuid "b4b078f1-2052-415a-abb0-82b4ddb82170")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -31706,7 +31706,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aee91319-c991-4983-8c30-61739c6e53d3")
+			(uuid "6c27da98-cc39-4781-a792-16c0a4727df1")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -32693,7 +32693,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "eab8ddda-2d07-4536-a95f-9ceeaf4eb940")
+			(uuid "e4997518-81d4-4ac3-9807-aa51bcbf689c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -32704,7 +32704,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "eab8ddda-2d07-4536-a95f-9ceeaf4eb940")
+			(uuid "44385c6d-725f-481b-a760-abaf6eeab0a0")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -32715,7 +32715,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "eab8ddda-2d07-4536-a95f-9ceeaf4eb940")
+			(uuid "a0f15b37-55d1-4401-a532-8e5289de53da")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -33368,7 +33368,7 @@
 		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_poly
 			(pts
-				(xy 3.8 -3.5) (xy 3.8 -1.65) (xy 3.3 -1.15) (xy -2.2 -1.15) (xy -2.2 -3.9) (xy 2.2 -3.9) (xy 2.2 -3.500001)
+				(xy 3.8 -3.5) (xy 3.8 -1.65) (xy 3.3 -1.15) (xy -2.2 -1.15) (xy -2.2 -3.9) (xy 2.2 -3.9) (xy 2.2 -3.500002)
 			)
 			(stroke
 				(width 0.1)
@@ -33552,7 +33552,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fba93182-e3d7-4f96-a48a-eb82719380db")
+			(uuid "16755bcf-ad4e-439e-ba4a-4ffcac242880")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 13)
@@ -33563,7 +33563,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fba93182-e3d7-4f96-a48a-eb82719380db")
+			(uuid "52a218f2-91e6-4c4d-811a-893cf0e05368")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 13)
@@ -33574,7 +33574,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fba93182-e3d7-4f96-a48a-eb82719380db")
+			(uuid "ac5a63e6-f89f-4ad4-9118-aea87c5de02d")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
@@ -33701,7 +33701,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "e928f9c3-d3a5-40ff-b7f3-e7430ae4d8bf")
+			(uuid "c9446130-a39d-4b14-ba42-af10ff355085")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -33711,7 +33711,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "e928f9c3-d3a5-40ff-b7f3-e7430ae4d8bf")
+			(uuid "f1ae73ca-f494-4b01-8f4a-40a3434374c3")
 		)
 		(embedded_fonts no)
 	)
@@ -35626,7 +35626,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d1dc8feb-a33b-4a51-b7fa-aa5ec99e5e31")
+			(uuid "df0a724e-e3a6-45e4-873e-453a87b4d5b8")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -35637,7 +35637,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d1dc8feb-a33b-4a51-b7fa-aa5ec99e5e31")
+			(uuid "2794e1bf-2d23-4b1e-b0b1-4c0e68642e18")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -35648,7 +35648,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d1dc8feb-a33b-4a51-b7fa-aa5ec99e5e31")
+			(uuid "2d05ae6b-5351-49a2-8b99-0e7e6d73caea")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad/PG1316S--装配体.STEP"
