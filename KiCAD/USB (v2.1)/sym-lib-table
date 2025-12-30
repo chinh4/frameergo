@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2025-09-11_12-45-01")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CY7C65634_28LTXC/KiCADv6/2025-09-11_12-45-01.kicad_sym")(options "")(descr ""))
   (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/Libraries/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SL2.1A/SL2.1A.kicad_sym")(options "")(descr ""))
 )

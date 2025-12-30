@@ -1,0 +1,1 @@
+This adds an additional usb interface for the keyboard by using a usb hub controller using the pins from the fingerprint sensor connector on the touchpad, this is because I don't want to deal with the EC to make the keyboard work and just want something like qmk to run off the keyboard.
