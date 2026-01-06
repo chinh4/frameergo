@@ -36425,6 +36425,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "frameortho"
+		(at 205.793683 182.82 0)
+		(layer "F.SilkS")
+		(uuid "e4b49268-13b3-4814-9f04-73cbfc02af66")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "GPIO16"
 		(at 218.587501 145.408889 45)
 		(layer "F.SilkS")
@@ -36435,6 +36448,19 @@
 				(thickness 0.15)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "chinh4"
+		(at 325.27 184.82 -0)
+		(layer "B.SilkS")
+		(uuid "4a06dc6b-b97c-4baa-a6be-e2e229ef50f3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "D-"
