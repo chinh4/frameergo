@@ -1,0 +1,1 @@
+https://github.com/FrameworkComputer/ExpansionCards/blob/main/Mechanical/Printable/3D/ExpansionCard_SelfTapping.stp
