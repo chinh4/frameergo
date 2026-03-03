@@ -925,7 +925,7 @@
 		(path "/d5435865-be66-4062-8b2b-301bb1570ef9")
 		(sheetname "/")
 		(sheetfile "usb-hub.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 1.249999 270)
 			(unlocked yes)
@@ -5812,7 +5812,7 @@
 		(path "/f70ed037-9e75-4efd-b553-fc4f7f7657dd")
 		(sheetname "/")
 		(sheetfile "usb-hub.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -3.075 1.85)
 			(end 3.075 1.85)
