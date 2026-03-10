@@ -2377,7 +2377,7 @@
 		(path "/1904baea-0d1e-45e9-8575-5b7b98250497")
 		(sheetname "/")
 		(sheetfile "sink.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 12.235 -2.05)
 			(end 12.235 -0.37)
@@ -4483,7 +4483,7 @@
 		(path "/b70131a5-bfd4-4675-a245-fa223cf6c73d")
 		(sheetname "/")
 		(sheetfile "source.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -12.235 -2.05)
 			(end -12.235 -0.37)
