@@ -1,0 +1,21 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,142.04,-47.37,0.0,top
+C10,27 pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,152.235,-53.76,90.0,top
+C2,0.1μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.82,-50.27,0.0,top
+C3,0.1μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,142.21,-50.64,180.0,top
+C4,0.1μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.82,-46.205,0.0,top
+C5,0.1μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,145.24,-40.81,0.0,top
+C6,10μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,141.99,-35.78,180.0,top
+C7,10μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,141.99,-33.7,180.0,top
+C8,10μF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,135.08,-45.3225,-90.0,top
+C9,27 pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,143.28,-53.76,90.0,top
+FPC1,046809610110846+,CONN-SMD_10P-P0.50_046809610110846,136.54,-36.58,-90.0,top
+R1,649Ω,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,141.22,-53.72,-90.0,top
+R2,10kΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,153.82,-48.2375,0.0,top
+R3,10kΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,153.82,-42.17,0.0,top
+R4,10kΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,148.43,-41.67,90.0,top
+R5,10kΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,150.51,-41.67,-90.0,top
+R6,0Ω,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,153.82,-44.1725,180.0,top
+R7,1kΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,154.49,-53.76,-90.0,top
+U1,CY7C65634-28LTXC,QFN-28,147.8311,-47.2611,0.0,top
+Y1,12MHz 18pF,Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm,147.78,-53.6125,0.0,top

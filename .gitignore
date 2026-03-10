@@ -6,7 +6,6 @@ plots
 *dfm
 *datasheets
 *.log
-KiCAD/**/*.csv
 KiCAD/*/*.step
 KiCAD/**/kle*
 /CAD/OldVersions
