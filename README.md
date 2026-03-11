@@ -18,6 +18,8 @@ images that look somewhat nice hopefully
 
 Put it together and enjoy... its pretty self explanatory. You can pivot the screen however you wish, as long as the cables reach.
 
+CAD found [here](https://cad.onshape.com/documents/80817440b3423ec8b1940df3/w/df84cddcf0cb2965e0230ab6/e/d5c515e039b8b80401e512cd)
+
 ---
 
 ## but... why?
