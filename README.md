@@ -65,7 +65,7 @@ Why not? lol. More realistically, I wanted to do a project that challenged my cu
 | XT30 (2+2) Right Male         | 2                    | $4.08         | https://www.aliexpress.us/item/3256804674449127.html                                        | Connector for power wires         |
 | XT30 (2+2) Right Female       | 2                    | $4.44         | https://www.aliexpress.us/item/3256804674449127.html                                        | Connector for power               |
 | Molex 0472720001              | 2                    | $11.06        | https://www.digikey.com/en/products/detail/molex/0472720001/1765727                         | Display Port connector            |
-| Framework EDP Cable           | 1                    | $9.00         | https://frame.work/products/edp-cable                                                       | EDP cable for display             |
+| EDP Cable                     | 1                    | $4.62         | https://www.aliexpress.us/item/3256806626687023.html                                        | EDP cable for display             |
 | Flex PCB + Stencil            | 5                    | $5.05         | https://jlcpcb.com/                                                                         | USB Hub Flex Cable                |
 | CY7C65634-28LTXC              | 5                    | $12.25        | https://www.digikey.com/en/products/detail/infineon-technologies/CY7C65634-28LTXC/2805204   | USB Hub IC                        |
 | RR1220P-102-D                 | 10                   | $0.31         | https://www.digikey.com/en/products/detail/susumu/RR1220P-102-D/432291                      | 1k ohm resistor                   |
