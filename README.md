@@ -4,6 +4,16 @@ An ergonomic laptop based off of the framework 13, based off of the concept by t
 
 ---
 
+## Renders
+
+images that look somewhat nice hopefully
+
+![frameortho iso](./Assets/renders/frameergo-iso-render.png)
+![frameortho front](./Assets/renders/frameergo-front-render.png)
+![frameortho iso back](./Assets/renders/frameergo-back-iso-render.png)
+
+---
+
 ## how use??!1/?
 
 Put it together and enjoy... its pretty self explanitory. You can pivot the screen however you wish, as long as the cables reach.
