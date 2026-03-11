@@ -26,7 +26,7 @@ Why not? lol. More realistically, I wanted to do a project that challenged my cu
 
 ---
 
-## Frameortho KiCAD (The keyboard)
+## Frameortho (The keyboard)
 
 ![main schematic](./Assets/keyboard/frameortho-main_schematic.png)
 ![matrix schematic](./Assets/keyboard/frameortho-matrix_schematic.png)
