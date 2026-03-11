@@ -16,7 +16,7 @@ images that look somewhat nice hopefully
 
 ## how use??!1/?
 
-Put it together and enjoy... its pretty self explanitory. You can pivot the screen however you wish, as long as the cables reach.
+Put it together and enjoy... its pretty self explanatory. You can pivot the screen however you wish, as long as the cables reach.
 
 ---
 
