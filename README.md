@@ -4,6 +4,12 @@ An ergonomic laptop based off of the framework 13, based off of the concept by t
 
 ---
 
+## how use??!1/?
+
+Put it together and enjoy... its pretty self explanitory. You can pivot the screen however you wish, as long as the cables reach.
+
+---
+
 ## but... why?
 
 Why not? lol. More realistically, I wanted to do a project that challenged my current skillset and allow me to grow from it. Mainly with KiCAD and CAD in general.
@@ -12,18 +18,29 @@ Why not? lol. More realistically, I wanted to do a project that challenged my cu
 
 ## Frameortho KiCAD (The keyboard)
 
-![main schematic](./Assets/frameortho-main_schematic.png)
-![matrix schematic](./Assets/frameortho-matrix_schematic.png)
-![pad schematic](./Assets/frameortho-pad_schematic.png)
-![mounting hole schematic](./Assets/frameortho-mounting_hole_schematic.png)
+![main schematic](./Assets/keyboard/frameortho-main_schematic.png)
+![matrix schematic](./Assets/keyboard/frameortho-matrix_schematic.png)
+![pad schematic](./Assets/keyboard/frameortho-pad_schematic.png)
+![mounting hole schematic](./Assets/keyboard/frameortho-mounting_hole_schematic.png)
+![frameortho pcb front](./Assets/keyboard/frameortho-pcb-front.png)
+![frameortho pcb back](./Assets/keyboard/frameortho-pcb-back.png)
 
 ---
 
 ## Display Adapters
 
+![sink schematic](./Assets/display-adapters/sink-schematic.png)
+![source schematic](./Assets/display-adapters/source-schematic.png)
+![combined pcb front](./Assets/display-adapters/combined-pcb-top.png)
+![combined pcb back](./Assets/display-adapters/combined-pcb-bottom.png)
+
 ---
 
 ## USB Hub
+
+![usb hub schematic](./Assets/usb-hub/usb-hub-schematic.png)
+![usb hub pcb front](./Assets/usb-hub/usb-hub-pcb-front.png)
+![usb hub pcb back](./Assets/usb-hub/usb-hub-pcb-back.png)
 
 ---
 
