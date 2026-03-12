@@ -57,6 +57,7 @@ Why not? lol. More realistically, I wanted to do a project that challenged my cu
 ---
 
 ## BOM
+
 | Item                          | Quantity             | Price (USD)   | Link                                                                                        | Description                       |
 |:------------------------------|:---------------------|:--------------|:--------------------------------------------------------------------------------------------|:----------------------------------|
 | PCB + Stencil (Sink + Source) | 5                    | $14.11        | https://jlcpcb.com/                                                                         | PCB for adapters                  |
@@ -75,6 +76,7 @@ Why not? lol. More realistically, I wanted to do a project that challenged my cu
 | ABM3B-12.000MHZ-B2-T          | 5                    | $3.35         | https://www.digikey.com/en/products/detail/abracon-llc/ABM3B-12-000MHZ-B2-T/675311          | CRYSTAL 12.0000MHZ 18PF SMD       |
 | CC0805JRNPO9BN270             | 10                   | $0.48         | https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN270/302838                   | CAP CER 27PF 50V C0G/NPO 0805     |
 | LMK212BJ106KG-T               | 10                   | $0.16         | https://www.digikey.com/en/products/detail/taiyo-yuden/LMK212BJ106KG-T/930652               | CAP CER 10UF 10V X5R 0805         |
+| 046809610110846+              | 4                    | $2.84         | https://www.digikey.com/en/products/detail/kyocera-avx/046809610110846/10313169             | Power button connector            |
 | PCB + PCBA                    | 2 (PCBA) + 3 (Blank) | $45.30        | https://jlcpcb.com/                                                                         | Keyboard PCB                      |
 | PG1316S                       | 40                   | $30.00        | https://modulo.industries/product/pg1316s-switch/                                           | Keyswitches                       |
 | SOD-123 Diode                 | 40                   | $30.00        | https://typeractive.xyz/products/smd-diodes                                                 | Diodes                            |
@@ -93,5 +95,5 @@ Why not? lol. More realistically, I wanted to do a project that challenged my cu
 | Framework 13 Touchpad         | 1                    | $39.00        | https://frame.work/products/touchpad-kit?v=FRANFT0001                                       | Touchpad                          |
 | Framework 13 Screen           | 1                    | $159.00       | https://frame.work/products/display-kit?v=FRANGX0001                                        | Screen                            |
 | Framework 13 Audio Board      | 1                    | $14.00        | https://frame.work/products/audio-board-kit?v=FRANFY0001                                    | Audio board                       |
-| Framework 13 Antenna          | 1                    | $14.00        | https://frame.work/products/antenna-module?v=FRANCXAW01                                     | For wifi                          |
-| Total (no tax or shipping):   |                      | $614.27       |                                                                                             |                                   |
+| Framework 13 Antenna          | 1                    | $14.00        | https://frame.work/products/antenna-module?v=FRANCXAW01                                     |                                   |
+| Total (no tax or shipping):   |                      | $612.73       |                                                                                             |                                   |
